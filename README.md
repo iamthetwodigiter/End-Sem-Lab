@@ -8,6 +8,7 @@
 | Client Server Architecture [One Way] `Factorial` | com.prabhat.factorial |
 | Client Server Archtiecture [Two Way] `Chat` | com.prabhat.chat |
 | Request Response Model `Factorial` | com.prabhat.factorialResponse |
+| Request Response Model `Grade` | com.prabhat.grade |
 
 ### How to execute the programs
 
