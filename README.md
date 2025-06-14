@@ -6,6 +6,7 @@
 |----------|--------------|
 | Introduction to Socket Programming | com.prabhat.socket |
 | Client Server Architecture [One Way] `Factorial` | com.prabhat.factorial |
+| Client Server Archtiecture [Two Way] `Chat` | com.prabhat.chat |
 
 ### How to execute the programs
 
