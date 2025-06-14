@@ -9,6 +9,7 @@
 | Client Server Archtiecture [Two Way] `Chat` | com.prabhat.chat |
 | Request Response Model `Factorial` | com.prabhat.factorialResponse |
 | Request Response Model `Grade` | com.prabhat.grade |
+| Distributed Processing `Calculator` | com.prabhat.calculator |
 
 ### How to execute the programs
 
