@@ -5,6 +5,7 @@
 | Category | Technologies |
 |----------|--------------|
 | Introduction to Socket Programming | com.prabhat.socket |
+| Client Server Architecture [One Way] `Factorial` | com.prabhat.factorial |
 
 ### How to execute the programs
 
