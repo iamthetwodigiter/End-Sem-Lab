@@ -11,6 +11,7 @@
 | Request Response Model `Grade` | com.prabhat.grade |
 | Distributed Processing `Calculator` | com.prabhat.calculator |
 | Distributed Processing `Power Calculator` | com.prabhat.powerCalculator |
+| Bidirectional Processing [Advanced Calculator] | com.prabhat.advancedCalculator |
 
 ### How to execute the programs
 
